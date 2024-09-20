@@ -194,7 +194,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CApp.cpp" />
-    <ClCompile Include="CMyPathGradient.cpp" />
     <ClCompile Include="CWndMain.cpp" />
     <ClCompile Include="Entry.cpp" />
     <ClCompile Include="MyEck.cpp" />

@@ -32,7 +32,7 @@ int APIENTRY wWinMain(_In_ HINSTANCE hInstance, _In_opt_ HINSTANCE hPrevInstance
 
 	App = new CApp{};
 	const auto pWnd = new CWndMain{};
-	pWnd->Create(L"Implemetation of Gdiplus PathGradient", WS_OVERLAPPEDWINDOW, 0, 800, 800,
+	pWnd->Create(L"Implementation of Gdiplus PathGradient", WS_OVERLAPPEDWINDOW, 0, 800, 800,
 		1000, 800, NULL, 0);
 	pWnd->Visible = TRUE;
 
